@@ -2,6 +2,6 @@ package test;
 
 public class aaaB {
 	public void name() {
-		 System.out.println("");
+		 System.out.println("33");
 	}
 }
